@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **vshalt/vshalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hosted projects
+Hosted projects:
+------------
 | Project | Link |
 |---------|-------|
 |[Flask Reddit](https://github.com/vshalt/flask-reddit) | https://reddit-flask.herokuapp.com |
