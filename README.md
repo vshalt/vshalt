@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hosted projects:
-------------
+#### Projects
+
+> Give some time for heroku servers to load
+
 | Project | Link |
 |---------|-------|
+|[Bugtrakr](https://bugtrakr.herokuapp.com) | https://bugtrackr.herokuapp.com |
 |[Flask Reddit](https://github.com/vshalt/flask-reddit) | https://reddit-flask.herokuapp.com |
 |[keybr](https://github.com/vshalt/keybr) | https://keybr.herokuapp.com |
 |[notes-app](https://github.com/vshalt/notes-app) | https://vshalt.github.io/notes-app |
