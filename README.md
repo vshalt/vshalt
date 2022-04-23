@@ -1,5 +1,6 @@
 # Hi there 👋
 
+Forever learner.
 <!--
 **vshalt/vshalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Projects
+<!-- #### Projects
 
 > Give some time for heroku servers to load
 
@@ -34,3 +35,4 @@ Here are some ideas to get you started:
 |[markdown-preview](https://github.com/vshalt/markdown-preview) | https://vshalt.github.io/markdown-preview |
 |[public-api](https://github.com/vshalt/public-api) | https://vshalt.github.io/public-api |
 |[password-generator](https://github.com/vshalt/password-generator) | https://vshalt.github.io/password-generator |
+-->
